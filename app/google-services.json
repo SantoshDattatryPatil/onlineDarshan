@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "309310936298",
+    "firebase_url": "https://onliedarshan.firebaseio.com",
+    "project_id": "onliedarshan",
+    "storage_bucket": "onliedarshan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309310936298:android:b9dfa9daeab8bd3112f393",
+        "android_client_info": {
+          "package_name": "com.e.onlinedarshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309310936298-ofk8qhe4vqvcm0bbjefhk0dosopr54al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2EJgFy8RlhLgG_oJNDW3rROpTwowDW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309310936298-ofk8qhe4vqvcm0bbjefhk0dosopr54al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309310936298:android:685b8fc59cf6075e12f393",
+        "android_client_info": {
+          "package_name": "com.onlinedarshan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309310936298-ofk8qhe4vqvcm0bbjefhk0dosopr54al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2EJgFy8RlhLgG_oJNDW3rROpTwowDW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309310936298-ofk8qhe4vqvcm0bbjefhk0dosopr54al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
